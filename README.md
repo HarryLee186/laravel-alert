@@ -1,6 +1,5 @@
 # Laravel Alert
 
-[![Build Status](https://travis-ci.org/SynergiTech/laravel-alert.svg?branch=master)](https://travis-ci.org/SynergiTech/laravel-alert)
 
 Inspired by [Easy Sweet Alert Messages for Laravel](https://github.com/uxweb/sweet-alert), this package provides a way of constructing alerts for the UI of your app.
 
