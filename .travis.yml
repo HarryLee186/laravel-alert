@@ -4,6 +4,7 @@ env:
   - LARAVEL=5
   - LARAVEL=6
   - LARAVEL=7
+  - LARAVEL=8
 
 php:
   - 7.2
